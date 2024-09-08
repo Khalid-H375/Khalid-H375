@@ -1,0 +1,4 @@
+-  Hi, I’m @Khalid-H375
+-  I’m interested in ... web and app development
+-  I’m currently learning ... c++ and python
+-  I'm just a beginner whos trying to make their way into tech
